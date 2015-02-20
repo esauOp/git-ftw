@@ -1,1 +1,9 @@
-notas.txt
+git init
+git status
+git add
+git diff
+git rm
+git commit
+git pull
+git push
+git log
